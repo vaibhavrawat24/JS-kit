@@ -25,4 +25,4 @@ item['hehe']="yes"
 
 console.log(item["Vaibhav"])
 console.log(item["harry"])
-console.log(item["hehe"])
+console.log(item.hehe)
