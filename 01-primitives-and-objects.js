@@ -21,5 +21,8 @@ const item={
     harry:98
 }
 
+item['hehe']="yes"
+
 console.log(item["Vaibhav"])
 console.log(item["harry"])
+console.log(item["hehe"])
