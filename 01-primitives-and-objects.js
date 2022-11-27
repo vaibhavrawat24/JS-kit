@@ -18,7 +18,7 @@ console.log(typeof d) // to find type of a variable
 
 const item={
     "Vaibhav":"yo",
-    "harry":98
+    harry:98
 }
 
 console.log(item["Vaibhav"])
