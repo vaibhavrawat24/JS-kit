@@ -1,5 +1,4 @@
 const prompt=require("prompt-sync")({sigint:true});
-console.log(alert === window.alert); 
 
 let a = prompt("Hey whats your age ?")
 a=Number.parseInt(a) //coverting to number
