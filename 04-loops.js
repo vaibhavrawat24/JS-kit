@@ -1,10 +1,10 @@
 var arr=[1,2,3,4,5]
 // console.log(arr)
 
-// for(var i=0;i<arr.length;i++)
-// {
-//     console.log(arr[i])
-// }
+for(var i=0;i<arr.length;i++)
+{
+    console.log(arr[i])
+}
 
 //another way to use for loop
 
@@ -15,10 +15,17 @@ var arr=[1,2,3,4,5]
 
 //while loop
 
-let j=0;
+// let j=0;
 
-while(j<arr.length)
-{
-    console.log(arr[j])
-    j+=1
-}
+// while(j<arr.length)
+// {
+//     console.log(arr[j])
+//     j+=1
+// }
+
+//do while loop
+
+// do{
+//     console.log(arr[j])
+//     j+=1
+// }while(j<arr.length);
