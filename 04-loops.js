@@ -8,7 +8,17 @@ var arr=[1,2,3,4,5]
 
 //another way to use for loop
 
-arr.forEach(function(element)
+// arr.forEach(function(element)
+// {
+//     console.log(element)
+// })
+
+//while loop
+
+let j=0;
+
+while(j<arr.length)
 {
-    console.log(element)
-})
+    console.log(arr[j])
+    j+=1
+}
